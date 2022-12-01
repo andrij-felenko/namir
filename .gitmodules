@@ -1,0 +1,18 @@
+[submodule "src/app"]
+	path = src/app
+	url = git@github.com:andrij-felenko/namir_app.git
+[submodule "src/libs/data"]
+	path = src/libs/data
+	url = git@github.com:andrij-felenko/namir_datalib.git
+[submodule "src/libs/base"]
+	path = src/libs/base
+	url = git@github.com:andrij-felenko/namir_baselib.git
+[submodule "src/server"]
+	path = src/server
+	url = git@github.com:andrij-felenko/namir_server.git
+[submodule "src/frontend"]
+	path = src/frontend
+	url = git@github.com:andrij-felenko/namir_front.git
+[submodule "src/backend"]
+	path = src/backend
+	url = git@github.com:andrij-felenko/namir_backend.git

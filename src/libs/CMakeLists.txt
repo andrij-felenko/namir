@@ -1,2 +1,2 @@
-add_subdirectory(baselib)
-add_subdirectory(datalib)
+add_subdirectory(base)
+add_subdirectory(data)
